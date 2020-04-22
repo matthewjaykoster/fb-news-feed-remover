@@ -11,5 +11,9 @@
                 "removeNewsFeed.js"
             ]
         }
-    ]
+    ],
+    "icons": {
+        "48": "48.png",
+        "128": "128.png"
+    },
 }
